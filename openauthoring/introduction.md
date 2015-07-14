@@ -11,6 +11,10 @@ Coming soon!!!!!
 
 VSO Localization is coming!!!!
 
-我们来翻译吧
+Let's localized it
+
+Let's try open localization service now!
+
+??????
 
 
