@@ -5,14 +5,6 @@ ms.topic: Introduction
 
 #Introduction
 
-Open Authoring is a documentation work-flow which enables content owners, including traditional content technical writers and engineers, to collaboratively author the documentation in Git and get published to MSDN.
-
-Coming soon!!!!!
-
-VSO Localization is coming!!!!
-
-Let's localized it
-
-我们开始使用Open localization吧!
+让我们演示open localization !
 
 
