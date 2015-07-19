@@ -5,6 +5,8 @@ ms.topic: Introduction
 
 #Introduction
 
-让我们演示open localization !
+Let's do a demo for open localization !
+
+这是一句新的句子.
 
 
