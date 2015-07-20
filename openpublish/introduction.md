@@ -7,8 +7,8 @@ ms.topic: Introduction
 
 Let's do a demo for open localization !
 
-这是一句新的句子.
+This is a new sentence.
 
-
+这是一个演示.
 
 
